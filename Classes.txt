@@ -1,0 +1,17 @@
+Basic Types
+	Number
+	String
+	Matrix<int Rows, int Columns>
+	Object
+	
+Containers
+	Set<class Type>
+	Map<class Type>
+	Graph<class Type>
+	Stream<class Type>
+	
+Algorithm
+
+
+Other
+	DateTime(don't implement ground up, use other and mod it http://www.boost.org/doc/libs/1_49_0/doc/html/date_time/gregorian.html)

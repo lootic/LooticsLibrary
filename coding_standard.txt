@@ -1,0 +1,21 @@
+Coding standard:
+
+NAMING
+Name it after how it's used, not what it does, use math analogies where possible
+
+
+FUNCTION NAMES
+Function names should be not be abbrevated, choose "string" over str
+
+return values from functions should be called result
+
+try to keep it short, functions should aim to be no longer than 20 lines of code
+
+replace boolean expressions with function names
+
+functions returning bool should start with the word "is" or "has"
+
+two functions should never do just about the same thing
+
+never use the word get, its implicit, if you want to have a getter-function call
+it x() and not get_x()
